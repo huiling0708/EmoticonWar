@@ -11,4 +11,4 @@ SHIT    -I      扔大便，扔到地上的大便可以捡回来，不要浪费�
 ````
 #Screenshot
 
-![](./screenshot/game screenshot.png)
+![image](./screenshot/game screenshot.png)
