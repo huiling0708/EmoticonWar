@@ -11,4 +11,4 @@ SHIT    -I      扔大便，扔到地上的大便可以捡回来，不要浪费�
 ````
 #Screenshot
 
-![image](https://github.com/yilu1216/EmoticonWar/blob/master/screenshot/game%20screenshot.png)
+![image](https://github.com/huiling0708/EmoticonWar/blob/master/screenshot/game%20screenshot.png)
